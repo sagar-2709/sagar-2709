@@ -56,6 +56,17 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   
   <br>
+  
+---
+  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+  
+  ### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 <!---
 sagar-2709/sagar-2709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,6 +78,8 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-2709&layout=compact)](https://github.com/sagar-2709/github-readme-stats)
 
 <br/>
+
+---
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
