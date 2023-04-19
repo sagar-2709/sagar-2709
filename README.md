@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @sagar-2709
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at Raj Kumar Goel Institute of Technology and Management.
+- 🎓 &nbsp; Studying Computer Science and Engineering at Raj Kumar Goel Institute of Technology and Management.
 - 💼 &nbsp; Working as a Student.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
