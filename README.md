@@ -26,6 +26,8 @@
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo"/>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/85722ca1-46d3-43cd-ad38-8eecd20dd395" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8ef50fcc-196d-4d09-a359-ff80bbeff76d" />
+
 
 <br>
 
